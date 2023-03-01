@@ -15,7 +15,7 @@ public class Ex02 {
         if (valor1 > valor2) {
             System.out.println("O primeiro valor é maior");
         }
-
+    sc.close();
 
     }
 }
