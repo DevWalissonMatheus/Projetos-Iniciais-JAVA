@@ -1,4 +1,4 @@
-package Exercicios;
+package pathex;
 
 import java.util.Scanner;
 
