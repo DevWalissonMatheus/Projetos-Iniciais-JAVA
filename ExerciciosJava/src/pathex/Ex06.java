@@ -17,7 +17,6 @@ public class Ex06 {
         System.out.print("Insira o segundo número: ");
         num2 = div2.nextInt();
 
-        double calc = (((double) num1) / num2);
         rest = num1 % num2;
 
         if (rest == 0) {
