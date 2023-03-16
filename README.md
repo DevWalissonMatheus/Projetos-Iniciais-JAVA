@@ -18,3 +18,5 @@ Fiz este projeto/repositório para adicionar os exercícios feitos durante as au
 - `Ex05` -> Pede a idade e informa quanto tempo viveu em anos, dias, horas...
 - `Ex06` -> Pede 2 números e informa se o primeiro é divisível pelo segundo.
 - `Ex07` -> Pede o sexo, M ou F "Sexo Válido" diferente disto é "Sexo Inválido".
+- `Ex08` -> Pede 10 valores inteiros positivos, apresenta o maior e menor e se digitar o número 0 encerra o programa.
+- `Ex09` -> Pede o peso e a altura depois apresenta o IMC.
